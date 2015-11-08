@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Droid/ListViewEnhanced.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewEnhanced/HomePage.cs">
+    <Files>
+      <File FileName="ListViewEnhanced/ListViewEnhanced.cs" Line="10" Column="4" />
+      <File FileName="ListViewEnhanced/HomePage.cs" Line="18" Column="52" />
+      <File FileName="ListViewEnhanced/DetailPage.cs" Line="11" Column="30" />
+      <File FileName="ListViewEnhanced/Personnage.cs" Line="14" Column="33" />
+      <File FileName="../flr-dev-mobile/MesFinances/MesFinances/Views/Pages/NewsPage.cs" Line="370" Column="1" />
+      <File FileName="ListViewEnhanced/GroupFamily.cs" Line="9" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

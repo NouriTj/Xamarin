@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{2DB74E76-0848-4B2B-BEA1-FB16623C2EB3}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>ListViewEnhanced</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ListViewEnhanced.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DetailPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HomePage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Personnage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GroupFamily.cs" />
+  </ItemGroup>
+</Project>
