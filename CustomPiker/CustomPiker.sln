@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CustomPiker", "CustomPiker\CustomPiker.shproj", "{D0781559-CA60-4557-BB87-DBE827BD50BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPiker.Droid", "Droid\CustomPiker.Droid.csproj", "{EECB88C2-C43D-48F8-A015-A4175CC0336C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECB88C2-C43D-48F8-A015-A4175CC0336C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECB88C2-C43D-48F8-A015-A4175CC0336C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECB88C2-C43D-48F8-A015-A4175CC0336C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECB88C2-C43D-48F8-A015-A4175CC0336C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
